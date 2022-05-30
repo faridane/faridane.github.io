@@ -27,11 +27,11 @@ Include whatever other information you consider pertinent.
 . screenshot
 . skills / technologies used
 
-* an appropriate <footer> element
+* an appropriate 'footer' element
 
  Lay out and style your portfolio
 - Assign ids/classes to sections/etc, then use css grid to lay out your page. Reference MDN and this tutorial to work out how to use grid: http://cssgridgarden.com/
-- To contain the elements of your grid, you will want to create a <div>, something like <div id="container">...</div>.
+- To contain the elements of your grid, you will want to create a <div>, something like 'div id="container"'...'/div'.
 - Create CSS rules to style page elements appropriately.
  
  Using online resources
