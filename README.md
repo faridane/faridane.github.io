@@ -10,9 +10,9 @@ In order to deliver this webpage solution, you will need the following skills an
 + Build the document structure
 Create a main page (index.html) representing a professional portfolio, including the following:
 - an appropriate <header> element
-- a <nav> element linking to each of the sections
-- an <h1> element with your page title (there can be only one)
-- a <section> element for each of the following, each of which should contain an appropriate heading element:
+- a 'nav' element linking to each of the sections
+- an 'h1' element with your page title (there can be only one)
+- a 'section' element for each of the following, each of which should contain an appropriate heading element:
 
 * About Me, consisting of:
 . brief biographical information
